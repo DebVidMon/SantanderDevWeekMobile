@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SantanderDevWeek</string>
+    <string name="txt_cartao_final">Final de la Targela</string>
+    <string name="txt_saldo_disponivel">Saldo disponible</string>
+    <string name="txt_saldo_limite">Saldo + Límite</string>
+    <string name="txt_ver_extrato">"Ver extracto "</string>
+    <string name="txt_pagar">Pago</string>
+    <string name="txt_transferir">Transferir</string>
+    <string name="txt_recarregar">Recargar</string>
+</resources>
